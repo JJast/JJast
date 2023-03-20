@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Jakub Jastrzębski
-- 👀 I’m interested in creating Video Games
-- 🌱 I study Cybersecurity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🏢 I'm a Cybersecurity Specialist
+- 💼 I study Cybersecurity
+- ⚙️ I use daily: .js, .html, .css, .sh, .py, .ps1, .go, .cpp
+- 🌍 I'm mostly active within the Comarch Community and AGH Zero Day Science Club
+- 🌱 Learning all about Open Source projects
+- 💬 I am looking for Blue Team Programming or Developer projects.
 
 <!---
 JJast/JJast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
