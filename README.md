@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jakub Jastrzębski
 - 🏢 I'm a Cybersecurity Specialist and Full Stack Developer
 - 💼 I study Cybersecurity
-- ⚙️ I use daily: .js, .html, .css, .sh, .py, .ps1, .go, .cpp
+- ⚙️ I use daily: .sh, .py, .ps1, .go, .cpp
 - 🌍 I'm mostly active within the Comarch Community and AGH Zero Day Science Club
 - 🌱 Learning all about Open Source projects
 - 💬 I am looking for Blue Team Programming or Developer projects.
